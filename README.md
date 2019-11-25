@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="img\3d.png" alt="Logo" width="600" height="250">
+  <img src="img\3d.JPG" alt="3d" width="600" height="250">
 </p>
 
   <h3 align="center">Pumpkin UNO</h3>
