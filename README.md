@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="img\logo.png" alt="Logo" width="150" height="150">
+  <img src="img\logo.png" alt="Logo" width="250" height="250">
 </p>
 
   <h3 align="center">Pumpkin UNO</h3>
@@ -29,7 +29,7 @@
 ## About The Project:
 
 <p align="center">
-  <img src="img\front.JPG" alt="screenshot_1">
+  <img src="img\front.JPG" alt="screenshot_1" width="450" height="300">>
 </p>
 
 SimpleSync is a graphical user interface for [rsync](https://rsync.samba.org) wich is a utility for efficiently transferring and synchronizing files between a computer and an external hard drive and across networked computers by comparing the modification times and sizes of files.
