@@ -12,9 +12,6 @@
 
 - [Table of Contents](#table-of-contents)
 - [About The Project:](#about-the-project)
-  - [Built With:](#built-with)
-- [Prerequisites](#prerequisites)
-- [Compiling](#compiling)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
